@@ -1,4 +1,4 @@
-# Hotel_Pricing_Model
+# Hotel Pricing Model
 This is the hotel pricing model by marxsong @@imike.com
 
 ### 本周完成：
